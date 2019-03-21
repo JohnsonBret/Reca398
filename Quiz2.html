@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<body>
+    <header>
+        <link rel="stylesheet" href="quizStyle.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+
+    </header>
+
+    <form action="Quiz2Handler.php" method="post">
+        <fieldset>
+            <legend>Max and Sys Quiz</legend>
+            <label>Name</label>
+            <input type="text" name="UserName">
+
+            <h3 class="questionHeader">Question 1</h3>
+            <p>What kind of data has double quotation " marks around it like "this"?</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q1" value="float"> Float</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q1" value="integer"> Integer</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q1" value="boolean"> Boolean</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q1" value="string"> String</div>
+
+            <h3 class="questionHeader">Question 2</h3>
+            <p>Which number below is an integer?</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q2" value="1337.0f"> 1337.0f</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q2" value="8.008f"> 8.008f</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q2" value="1492"> 1492 </div>
+            <div class="inputRadio"><input type="radio" name="quiz2q2" value="I Am an Integer"> "I Am an Integer PICK ME!" </div>
+
+            <h3 class="questionHeader">Question 3</h3>
+            <p>Which number below is an float?</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q3" value="1776"> 1776</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q3" value="-21.0f">-21.0f</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q3" value="120"> 120</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q3" value="8floats"> "8floats"</div>
+            
+            <h3 class="questionHeader">Question 4</h3>
+            <p>Why would we use an if statement?</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q4" value="equality">To see if two things are equal</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q4" value="decision">To make a decision in our code.</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q4" value="assignment">To give a variable a value</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q4" value="repeat">To repeat some code over and over.</div>
+
+            <h3 class="questionHeader">Question 5</h3>
+            <p>What does the <= operator do?</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q5" value="lessThan">Checks if the number on the right is greater than the number on the left</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q5" value="lessThanEqualTo">Checks if the number on the left is less than the number on the right OR if they are equal</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q5" value="equality">Checks if two things are equal</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q5" value="funArrow">It's a very fun arrow that points out numbers.</div>
+
+            <h3 class="questionHeader">Question 6</h3>
+            <p>What does = operator do?</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q6" value="assignment">Sets the value of a variable</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q6" value="equality">Checks the value of a variable</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q6" value="equality">Checks if two things are equal</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q6" value="greaterThan">Checks if the two values are greater than 0.</div>
+
+            <h3 class="questionHeader">Question 7</h3>
+            <p>What is the name of the = operator?</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q7" value="assignment">The assignment operator</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q7" value="plus">The plus operator</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q7" value="equality">The equality operator</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q7" value="modulus">The modulus operator</div>
+
+            <h3 class="questionHeader">Question 8</h3>
+            <p>What do we call this symbol ; ?</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q8" value="colon">Colon</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q8" value="semicolon">Semi-Colon</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q8" value="pipes">Pipes</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q8" value="asterix">Asterix.</div>
+
+            <h3 class="questionHeader">Question 9</h3>
+            <p>What is the name of this variable? <br>String nani = "Omae mou shinde iru!"</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q9" value="Omae mou shinde iru">"Omae mou shinde iru!"</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q9" value="nani">nani</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q9" value="String">String</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q9" value="function">Function call</div>
+
+            <h3 class="questionHeader">Question 10</h3>
+            <p>What is stored inside of the variable nani? <br>String nani = "Omae mou shinde iru!"</p>
+            <div class="inputRadio"><input type="radio" name="quiz2q10" value="Nani!">"Nani!"</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q10" value="Omae mou shinde iru">"Omae mou shinde iru!"</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q10" value="A integer">A integer</div>
+            <div class="inputRadio"><input type="radio" name="quiz2q10" value="A float">A float</div>
+
+            <hr>
+            <input class="submitButton" type="submit" value="Submit">
+        </fieldset>
+    </form>
+
+
+</body>
+
+
+    
+   
+    

@@ -1,0 +1,55 @@
+body{
+    background-color: darkslategrey;
+    color: white;
+    font-family: Oswald;
+    font-size: 20px;
+    
+}
+
+.submitButton{
+    display: block;
+    margin: 10px;
+}
+
+.questionHeader{
+    border-bottom: 2px solid white;
+}
+
+.result{
+    margin: 0;
+}
+
+.space{
+    animation: jumpSpace 500ms alternate infinite;
+}
+
+.showAnswer{
+    margin-top: 0px;
+}
+
+#results{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#resultsTop{
+    text-align: center;
+}
+
+input{
+    margin: 0px 10px;
+}
+
+form{
+    margin: 3% 10%;
+}
+
+@keyframes jumpSpace{
+    0%{
+        letter-spacing: 1px;
+    }
+    100%{
+        letter-spacing: 3px;
+    }
+}

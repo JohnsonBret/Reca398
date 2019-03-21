@@ -1,0 +1,12 @@
+node_modules/
+constants.php/
+Lecture2/
+Lecture3Img/
+Lecture4Img/
+Lecture5Img/
+Lecture7/
+Lecture9/
+Lecture10/
+Lecture11/
+Lecture12/
+Lecture13/

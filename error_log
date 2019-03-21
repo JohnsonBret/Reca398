@@ -1,0 +1,428 @@
+[22-Feb-2018 22:06:26 America/New_York] PHP Notice:  Undefined index: firstName in /home/bretxhnw/public_html/reca398.party/handler.php on line 5
+[22-Feb-2018 22:06:26 America/New_York] PHP Notice:  Undefined index: password in /home/bretxhnw/public_html/reca398.party/handler.php on line 6
+[22-Feb-2018 22:06:51 America/New_York] PHP Notice:  Undefined index: firstName in /home/bretxhnw/public_html/reca398.party/handler.php on line 5
+[22-Feb-2018 22:06:51 America/New_York] PHP Notice:  Undefined index: password in /home/bretxhnw/public_html/reca398.party/handler.php on line 6
+[26-Apr-2018 23:27:16 America/New_York] PHP Notice:  Undefined index: firstName in /home/bretxhnw/public_html/reca398.party/handler.php on line 5
+[26-Apr-2018 23:27:16 America/New_York] PHP Notice:  Undefined index: password in /home/bretxhnw/public_html/reca398.party/handler.php on line 6
+[26-Apr-2018 23:27:18 America/New_York] PHP Notice:  Undefined index: firstName in /home/bretxhnw/public_html/reca398.party/handler.php on line 5
+[26-Apr-2018 23:27:18 America/New_York] PHP Notice:  Undefined index: password in /home/bretxhnw/public_html/reca398.party/handler.php on line 6
+[25-Oct-2018 02:59:06 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'bretxhnw'@'localhost' (using password: YES) in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 18
+[25-Oct-2018 19:55:04 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 56
+[25-Oct-2018 19:55:04 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 93
+[25-Oct-2018 19:55:04 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 106
+[25-Oct-2018 19:55:04 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 115
+[25-Oct-2018 19:55:15 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 56
+[25-Oct-2018 19:55:15 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 93
+[25-Oct-2018 19:55:15 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 106
+[25-Oct-2018 19:55:15 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 115
+[25-Oct-2018 19:55:24 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 56
+[25-Oct-2018 19:55:24 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 93
+[25-Oct-2018 19:55:24 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 106
+[25-Oct-2018 19:55:24 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 115
+[25-Oct-2018 19:55:44 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 56
+[25-Oct-2018 19:55:44 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 93
+[25-Oct-2018 19:55:44 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 106
+[25-Oct-2018 19:55:44 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 115
+[25-Oct-2018 19:55:55 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 56
+[25-Oct-2018 19:55:55 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 93
+[25-Oct-2018 19:55:55 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 106
+[25-Oct-2018 19:55:55 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 115
+[25-Oct-2018 19:56:04 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 56
+[25-Oct-2018 19:56:04 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 93
+[25-Oct-2018 19:56:04 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 106
+[25-Oct-2018 19:56:04 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 115
+[25-Oct-2018 19:56:16 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 56
+[25-Oct-2018 19:56:16 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 93
+[25-Oct-2018 19:56:16 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 106
+[25-Oct-2018 19:56:16 America/New_York] PHP Notice:  Undefined index: quiz1q4 in /home/bretxhnw/public_html/reca398.party/Quiz1Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer1 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer2 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer3 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer4 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer5 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer6 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer7 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer8 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer9 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer1 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer1 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer2 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer2 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer3 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer3 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer4 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer4 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer5 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer5 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer6 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer6 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer7 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer7 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer8 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer8 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer9 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer9 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 17:45:26 America/New_York] PHP Notice:  Undefined index: quiz2answer10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q2 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 54
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q3 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 55
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q4 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 56
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q5 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 57
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q6 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 58
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q7 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 59
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q8 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 60
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q9 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 61
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 62
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q2 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q3 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q4 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q5 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q6 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q7 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q8 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q9 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q2 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q2 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q3 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q3 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q4 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q4 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q5 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q5 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q6 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q6 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q7 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q7 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q8 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q8 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q9 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q9 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:09:21 America/New_York] PHP Notice:  Undefined index: quiz2q10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[08-Nov-2018 19:15:19 America/New_York] PHP Notice:  Undefined index: quiz2q10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 62
+[08-Nov-2018 19:15:19 America/New_York] PHP Notice:  Undefined index: quiz2q10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 93
+[08-Nov-2018 19:15:19 America/New_York] PHP Notice:  Undefined index: quiz2q10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 106
+[08-Nov-2018 19:15:19 America/New_York] PHP Notice:  Undefined index: quiz2q10 in /home/bretxhnw/public_html/reca398.party/Quiz2Handler.php on line 115
+[17-Jan-2019 02:44:04 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 11
+[17-Jan-2019 02:44:04 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 9
+[17-Jan-2019 02:50:20 America/New_York] PHP Warning:  Missing argument 3 for Membership::create_user(), called in /home/bretxhnw/public_html/reca398.party/create.php on line 17 and defined in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 30
+[17-Jan-2019 02:50:20 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'bretxhnw'@'localhost' (using password: NO) in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 11
+[17-Jan-2019 02:50:20 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[17-Jan-2019 02:53:38 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'bretxhnw'@'localhost' (using password: NO) in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 11
+[17-Jan-2019 02:53:38 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[17-Jan-2019 03:01:56 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[17-Jan-2019 03:06:33 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[17-Jan-2019 03:11:46 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 11
+[17-Jan-2019 03:11:46 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[17-Jan-2019 03:16:43 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 11
+[17-Jan-2019 03:16:43 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[17-Jan-2019 03:21:35 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[17-Jan-2019 16:46:18 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 9
+[18-Jan-2019 03:43:30 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[22-Jan-2019 03:39:25 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[22-Jan-2019 03:42:32 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[22-Jan-2019 03:44:57 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[23-Jan-2019 01:25:48 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[23-Jan-2019 01:36:55 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[23-Jan-2019 01:50:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 16
+[23-Jan-2019 01:50:36 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 16
+[23-Jan-2019 01:50:36 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[23-Jan-2019 01:51:44 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[23-Jan-2019 02:03:31 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[23-Jan-2019 02:16:12 America/New_York] PHP Warning:  require_once(/public_html/reca398.party/classes/Membership.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/create.php on line 8
+[23-Jan-2019 02:16:12 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/public_html/reca398.party/classes/Membership.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/create.php on line 8
+[23-Jan-2019 02:16:16 America/New_York] PHP Warning:  require_once(/public_html/reca398.party/classes/Membership.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/create.php on line 8
+[23-Jan-2019 02:16:16 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/public_html/reca398.party/classes/Membership.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/create.php on line 8
+[23-Jan-2019 02:16:22 America/New_York] PHP Warning:  require(/public_html/reca398.party/classes/DbManager.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:16:22 America/New_York] PHP Fatal error:  require(): Failed opening required '/public_html/reca398.party/classes/DbManager.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:16:44 America/New_York] PHP Warning:  require(/public_html/reca398.party/classes/DbManager.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:16:44 America/New_York] PHP Fatal error:  require(): Failed opening required '/public_html/reca398.party/classes/DbManager.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:16:44 America/New_York] PHP Warning:  require(/public_html/reca398.party/classes/DbManager.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:16:44 America/New_York] PHP Fatal error:  require(): Failed opening required '/public_html/reca398.party/classes/DbManager.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:16:56 America/New_York] PHP Warning:  require(/public_html/reca398.party/classes/DbManager.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:16:56 America/New_York] PHP Fatal error:  require(): Failed opening required '/public_html/reca398.party/classes/DbManager.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:17:03 America/New_York] PHP Warning:  require_once(/public_html/reca398.party/classes/Membership.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/create.php on line 8
+[23-Jan-2019 02:17:03 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/public_html/reca398.party/classes/Membership.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/create.php on line 8
+[23-Jan-2019 02:18:04 America/New_York] PHP Warning:  require(/classes/DbManager.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:18:04 America/New_York] PHP Fatal error:  require(): Failed opening required '/classes/DbManager.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:18:05 America/New_York] PHP Warning:  require(/classes/DbManager.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:18:05 America/New_York] PHP Fatal error:  require(): Failed opening required '/classes/DbManager.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 2
+[23-Jan-2019 02:18:09 America/New_York] PHP Warning:  require_once(/classes/Membership.php): failed to open stream: No such file or directory in /home/bretxhnw/public_html/reca398.party/create.php on line 8
+[23-Jan-2019 02:18:09 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/classes/Membership.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bretxhnw/public_html/reca398.party/create.php on line 8
+[23-Jan-2019 02:19:31 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[23-Jan-2019 02:26:19 America/New_York] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'bretxhnw_Professor'@'localhost' to database 'bretxhnw_reca398members' in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 12
+[23-Jan-2019 02:26:19 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[23-Jan-2019 02:28:52 America/New_York] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'bretxhnw_Professor'@'localhost' to database 'bretxhnw_reca398members' in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 12
+[23-Jan-2019 02:28:52 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 33
+[23-Jan-2019 02:32:43 America/New_York] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bretxhnw_Professor'@'localhost' to database 'bretxhnw_reca398members' in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 12
+[23-Jan-2019 02:32:43 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 66
+[23-Jan-2019 02:32:43 America/New_York] PHP Warning:  DbManager::createNewUser(): Couldn't fetch mysqli in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 81
+[23-Jan-2019 02:34:09 America/New_York] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bretxhnw_Professor'@'localhost' to database 'bretxhnw_reca398members' in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 12
+[23-Jan-2019 02:34:09 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 66
+[23-Jan-2019 02:34:09 America/New_York] PHP Warning:  DbManager::createNewUser(): Couldn't fetch mysqli in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 81
+[23-Jan-2019 02:50:27 America/New_York] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 24
+[23-Jan-2019 02:50:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php:27
+Stack trace:
+#0 /home/bretxhnw/public_html/reca398.party/classes/Membership.php(9): DbManager->verifyUserCredentials('Bret', 'Tiberius1')
+#1 /home/bretxhnw/public_html/reca398.party/index.php(19): Membership->validate_user('Bret', 'Tiberius1')
+#2 {main}
+  thrown in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 27
+[23-Jan-2019 02:51:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php:27
+Stack trace:
+#0 /home/bretxhnw/public_html/reca398.party/classes/Membership.php(9): DbManager->verifyUserCredentials('Bret', 'Tiberius1')
+#1 /home/bretxhnw/public_html/reca398.party/index.php(19): Membership->validate_user('Bret', 'Tiberius1')
+#2 {main}
+  thrown in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 27
+[23-Jan-2019 02:58:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php:27
+Stack trace:
+#0 /home/bretxhnw/public_html/reca398.party/classes/Membership.php(9): DbManager->verifyUserCredentials('Bret', 'Tiberius1')
+#1 /home/bretxhnw/public_html/reca398.party/index.php(19): Membership->validate_user('Bret', 'Tiberius1')
+#2 {main}
+  thrown in /home/bretxhnw/public_html/reca398.party/classes/DbManager.php on line 27
+[24-Jan-2019 03:16:37 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 03:16:37 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 03:16:56 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 03:16:56 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 14:04:31 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 14:04:34 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 14:04:37 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 14:04:41 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 14:04:41 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 14:04:57 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 14:04:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 14:06:35 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[24-Jan-2019 14:06:35 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 17:24:04 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 17:24:04 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 17:54:20 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 17:54:20 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 17:54:26 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[24-Jan-2019 17:54:26 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 17:55:14 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 17:55:14 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 17:55:37 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 17:55:37 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[24-Jan-2019 22:25:25 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 22:25:26 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 22:25:26 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 22:25:34 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 22:25:37 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 22:25:39 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 22:25:43 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture2.php on line 26
+[24-Jan-2019 22:25:49 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture2.php on line 26
+[24-Jan-2019 22:26:29 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture2.php on line 26
+[24-Jan-2019 22:26:36 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 22:27:54 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:27:54 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:27:55 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:27:55 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 22:27:56 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:27:56 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:27:57 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 22:28:00 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:28:03 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture2.php on line 26
+[24-Jan-2019 22:28:15 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:29:52 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:30:38 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:30:55 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:30:59 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:32:23 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 22:35:49 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 23:08:16 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[24-Jan-2019 23:08:16 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 23:31:43 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[24-Jan-2019 23:31:43 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[24-Jan-2019 23:37:46 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[24-Jan-2019 23:37:46 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[24-Jan-2019 23:45:48 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[24-Jan-2019 23:45:48 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture2.php on line 26
+[24-Jan-2019 23:48:48 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[24-Jan-2019 23:48:48 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[25-Jan-2019 19:16:44 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[25-Jan-2019 19:16:44 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[25-Jan-2019 19:18:04 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[25-Jan-2019 19:18:04 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[25-Jan-2019 21:49:16 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[25-Jan-2019 21:49:16 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[26-Jan-2019 07:44:26 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[26-Jan-2019 07:44:26 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[30-Jan-2019 02:51:16 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[30-Jan-2019 02:51:16 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[01-Feb-2019 03:31:15 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[01-Feb-2019 03:31:15 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[01-Feb-2019 11:23:21 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[01-Feb-2019 11:23:21 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[01-Feb-2019 11:25:07 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[01-Feb-2019 11:25:07 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[01-Feb-2019 13:43:54 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[01-Feb-2019 13:43:54 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[01-Feb-2019 15:16:07 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[01-Feb-2019 15:16:07 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[04-Feb-2019 23:13:27 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[04-Feb-2019 23:13:27 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[04-Feb-2019 23:15:18 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[04-Feb-2019 23:15:18 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[05-Feb-2019 00:28:58 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[05-Feb-2019 00:28:58 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[05-Feb-2019 00:30:07 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[05-Feb-2019 00:30:07 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[05-Feb-2019 01:51:59 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[05-Feb-2019 01:51:59 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[05-Feb-2019 02:51:52 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[05-Feb-2019 02:51:52 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[06-Feb-2019 20:56:16 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[06-Feb-2019 20:56:16 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[06-Feb-2019 20:58:11 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[06-Feb-2019 20:58:11 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[06-Feb-2019 22:57:10 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[06-Feb-2019 22:57:10 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture3.php on line 26
+[07-Feb-2019 17:25:12 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[07-Feb-2019 17:25:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[07-Feb-2019 17:25:20 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 17:25:20 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture4.php on line 26
+[07-Feb-2019 17:29:07 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[07-Feb-2019 17:29:07 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[07-Feb-2019 17:29:13 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 17:29:13 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture4.php on line 26
+[07-Feb-2019 17:29:46 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[07-Feb-2019 17:29:46 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[07-Feb-2019 17:36:06 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[07-Feb-2019 17:36:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[07-Feb-2019 19:46:19 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 19:46:19 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[07-Feb-2019 19:48:47 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 19:48:47 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[07-Feb-2019 20:54:14 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 20:54:14 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[07-Feb-2019 20:56:25 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 20:56:25 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[07-Feb-2019 21:34:54 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 21:34:54 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[07-Feb-2019 21:52:15 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 21:52:15 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[07-Feb-2019 22:06:14 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 22:06:14 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[07-Feb-2019 22:12:35 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 22:12:35 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[07-Feb-2019 22:53:57 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 22:53:57 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[07-Feb-2019 23:59:35 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Feb-2019 23:59:35 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture4.php on line 26
+[08-Feb-2019 00:00:55 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[08-Feb-2019 00:00:55 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture4.php on line 26
+[08-Feb-2019 00:49:44 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[08-Feb-2019 00:49:44 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[08-Feb-2019 01:47:40 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[08-Feb-2019 01:47:40 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture4.php on line 26
+[09-Feb-2019 19:54:38 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[09-Feb-2019 19:54:38 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture4.php on line 26
+[14-Feb-2019 19:10:37 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[14-Feb-2019 19:10:37 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[14-Feb-2019 19:12:30 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[14-Feb-2019 19:12:30 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[14-Feb-2019 20:51:29 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[14-Feb-2019 20:51:29 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[14-Feb-2019 20:56:07 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[14-Feb-2019 20:56:07 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[14-Feb-2019 23:54:16 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[14-Feb-2019 23:54:16 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[16-Feb-2019 12:43:10 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[16-Feb-2019 12:43:10 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[20-Feb-2019 19:15:28 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[20-Feb-2019 19:15:28 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[20-Feb-2019 19:17:03 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[20-Feb-2019 19:17:03 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[20-Feb-2019 20:46:09 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[20-Feb-2019 20:46:09 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[20-Feb-2019 21:48:00 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[20-Feb-2019 21:48:00 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[21-Feb-2019 15:34:49 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[21-Feb-2019 15:34:49 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture4.php on line 26
+[21-Feb-2019 17:07:00 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[21-Feb-2019 17:07:00 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[21-Feb-2019 20:34:32 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[21-Feb-2019 20:34:32 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[21-Feb-2019 20:36:33 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[21-Feb-2019 20:36:33 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[22-Feb-2019 00:17:11 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[22-Feb-2019 00:17:11 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[22-Feb-2019 00:19:23 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[22-Feb-2019 00:19:23 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[22-Feb-2019 02:35:50 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[22-Feb-2019 02:35:50 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[22-Feb-2019 16:22:02 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[22-Feb-2019 16:22:02 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[22-Feb-2019 16:23:27 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[22-Feb-2019 16:23:27 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[22-Feb-2019 18:37:40 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[22-Feb-2019 18:37:40 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[23-Feb-2019 13:51:23 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[23-Feb-2019 13:51:23 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[23-Feb-2019 13:53:06 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[23-Feb-2019 13:53:06 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[23-Feb-2019 15:39:06 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[23-Feb-2019 15:39:06 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[27-Feb-2019 00:25:14 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[27-Feb-2019 00:25:14 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[27-Feb-2019 17:16:27 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[27-Feb-2019 17:16:27 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[27-Feb-2019 17:18:20 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[27-Feb-2019 17:18:20 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[27-Feb-2019 19:51:16 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[27-Feb-2019 19:51:16 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[27-Feb-2019 20:23:32 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[27-Feb-2019 20:23:32 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[27-Feb-2019 20:28:25 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[27-Feb-2019 20:28:25 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[27-Feb-2019 21:51:32 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[27-Feb-2019 21:51:32 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[27-Feb-2019 22:52:56 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[27-Feb-2019 22:52:56 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[28-Feb-2019 07:01:32 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 07:01:32 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Lecture5.php on line 26
+[28-Feb-2019 16:37:21 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 16:37:21 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[28-Feb-2019 16:47:12 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 16:47:12 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[28-Feb-2019 16:48:49 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 16:48:49 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[28-Feb-2019 18:42:07 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 18:42:07 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[28-Feb-2019 20:24:45 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 20:24:45 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[28-Feb-2019 20:27:08 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 20:27:08 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[28-Feb-2019 20:53:46 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 20:53:46 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[28-Feb-2019 21:04:25 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 21:04:25 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[28-Feb-2019 22:40:36 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[28-Feb-2019 22:40:36 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[03-Mar-2019 14:41:36 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[03-Mar-2019 14:41:36 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[03-Mar-2019 14:42:46 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[03-Mar-2019 14:42:46 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[03-Mar-2019 16:38:15 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[03-Mar-2019 16:38:15 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[04-Mar-2019 14:36:07 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[04-Mar-2019 14:36:07 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[04-Mar-2019 14:38:16 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[04-Mar-2019 14:38:16 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[06-Mar-2019 13:24:04 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[06-Mar-2019 13:24:04 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[06-Mar-2019 23:41:54 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[06-Mar-2019 23:41:54 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[07-Mar-2019 16:16:38 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Mar-2019 16:16:38 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[07-Mar-2019 16:17:34 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Mar-2019 16:17:34 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[07-Mar-2019 19:02:11 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[07-Mar-2019 19:02:11 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[08-Mar-2019 21:32:44 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[08-Mar-2019 21:32:44 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Games.php on line 27
+[18-Mar-2019 10:57:33 America/New_York] PHP Notice:  Undefined index: status in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 63
+[18-Mar-2019 10:57:33 America/New_York] PHP Notice:  Undefined index: name in /home/bretxhnw/public_html/reca398.party/Downloads.php on line 27
+[18-Mar-2019 22:42:52 America/New_York] PHP Warning:  Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP) in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55
+[18-Mar-2019 22:42:52 America/New_York] PHP Warning:  A non-numeric value encountered in /home/bretxhnw/public_html/reca398.party/classes/Membership.php on line 55

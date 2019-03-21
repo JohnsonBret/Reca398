@@ -1,0 +1,93 @@
+body{
+	color: white;
+	background-color: black;
+	font-family: Oswald;
+}
+
+nav{
+	background-color: rgb(0, 126, 0);
+}
+
+nav a{
+	font-size:20px;
+	color:white;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+p{
+	font-size: 28px;
+}
+
+img{
+	width: 100%;
+}
+
+hr{
+	width: 800px;
+}
+
+.lecture{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.lectureTitle{
+	order: 0;
+	font-size: 70px;
+}
+
+.lectureListContainer{
+	order: 1;
+}
+
+.lectureList{
+	font-size: 30px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: white;
+}
+
+.instructionGrid{
+    display: grid;
+	grid-template-columns: 48% 48%;
+	grid-template-rows: auto;
+	grid-template-areas: 
+		"left right";
+	width: 100%;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+.left{
+
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.right ol li{
+    font-size: 1.7em;
+}
+
+
+
