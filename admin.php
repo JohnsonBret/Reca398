@@ -60,6 +60,7 @@ if($_POST && !empty($_POST['student_id']) && !empty($_POST['assignment'])  && !e
                     <option value="9">Ben</option>
                     <option value="10">Drew</option>
                     <option value="12">Ayla</option>
+                    <option value="1">Bret</option>
                 </select> 
               </div>
               <div class="formRow">
