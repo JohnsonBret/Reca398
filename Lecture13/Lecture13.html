@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+
+     <link rel="stylesheet" href="Lecture13style.css">
+     <title>RECA 398 | Lecture 13</title>
+  </head>
+  
+  <body>
+    <nav>
+        <a href="../Downloads.html">Downloads</a>
+        <a href="../Slides.html">Slides</a>
+        <a href="../Games.html">Games</a>
+      </nav>
+      
+    <div class="lecture">
+        <h2 class="lectureTitle">Lecture 13 - Music States</h2>
+        <div class="lectureListContainer">
+         
+            <ol class="lectureList">
+                <li><a href="#Item1">Layered Boss Music</a></li>
+                <li><a href="#Item2">Wave States</a></li>
+                
+            </ol>
+        </div>
+
+        <div id="Item1">
+          <hr>
+          <h2>Boss State Music</h2>
+          <img src="BossMusicFolder.png">
+          <p>Go to your Interactive Music folder and create a folder called Boss</p>
+          <img src="BossMusicChoose.png">
+          <p>Put any music you would like to use for the Boss Wave into this folder.<br>
+          I kept it simple with just 2 tracks - Boss Clean and Boss Dirty</p>
+          <img src="BossMusicDrag.png">
+          <p>Drag the Boss Folder you created onto the Music Work Unit.</p>
+          <img src="BossMusicSegment.png">
+          <p>On the folder change the Object Type / Action from Virtual Folder to Music Segment</p>
+          <img src="InteractiveMusicLayout.png">
+          <p>Go to the Layouts tab and change to the Interactive Music Layout.</p>
+          <img src="BossMusicSetTempoSegment.png">
+          <p>Change the tempo of the Boss Music Segment to 136 Beats per Minute.  This is the Tempo of all our Music files.</p>
+          <img src="BossMusicSetCue.png">
+          <p>Ctrl+Left-Click and move the Start Cue (Green Flag) to the start of our Music.<br>  Left-Click to move the End Cue (Red Flag) to the end of the Music on bar 17.</p>
+
+          <img src="BossMusicPlaylist.png">
+          <p>Right-Click on our Boss Music Segment ->New Parent-> Music Playlist Container</p>
+          <img src="BossMusicTempot.png">
+          <p>We need to set the tempo for our Music Playlist Container to 136bpm.<br>
+              Otherwise, it will overwrite our Tempo on the Music Segement</p>
+
+          <img src="BossMusicSequence.png">
+          <p>Drag our Stage Music Segment onto the Sequence Continuous icon in the Music Playlist Container</p>
+          <img src="BossMusicInfinite.png">
+          <p>On the Sequence Continuous click the down arrow to set the Loop Count to Infinite.</p>
+          <img src="BossPinTransport.png">
+          <p>Click on the Boss Stage Music Playlist Container and then Pin the Transport Control</p>
+          <img src="BossMusicSegmentFocus.png">
+          <p>Left-Click on the Boss Music Segment to give it focus.</p>
+          <img src="BossMusicRandomStep.png">
+          <p>Pick a Boss Music track and set it to either Random Step or Sequence Step</p>
+         
+          <img src="BossMusicSubTrack.png">
+          <p>Right-Click on the Sequence / Random Step track and add a Sub-Track.</p>
+          <img src="BossMusicDragSub.png">
+          <p>Drag a Boss Music Track onto the newly created Sub-Track</p>
+          <img src="DeleteEmptyTracks.png">
+          <p>Clean up your Mess! Delete any left-over tracks</p>
+          
+
+        </div>
+        
+
+        <div id="Item2">
+          <hr>
+          <h2>Create Wave States</h2>
+          <img src="StateCreateGroup.png">
+          <ol>
+            <li>Go to the Game Syncs Tab</li>
+            <li>Select the Default Work Unit in States</li>
+            <li>Create a new State Group</li>
+          </ol>
+
+          <img src="StateGroupName.png">
+          <p>Name your State Group WaveState and add Two States Normal and Boss</p>
+          <img src="StateGroupFinished.png">
+          <p>Here is how it should look when it is finished.</p>
+          <img src="StateTransition.png">
+          <p>Add some State Transitions and Times from the Normal to Boss State<br>
+          And from Boss to Normal</p>
+          <img src="StateMusicSwitch.png">
+          <p>Select both the Normal and Boss Music Playlist container.<br>
+          Right-Click -> New Parent -> Music Switch Container</p>
+          <img src="StateMusicSwitchName.png">
+          <p>Name the Music Switch Container I choose MusicSwitch</p>
+          <img src="StateMusicSwitchTempo.png">
+          <p>Select the Music Switch and set it's Tempo to 136<br>
+          In the case, where you had music of different tempos you would not do this operation.<br>
+          In our case, all of our music is 136 bpm</p>
+          <img src="StateMusicAssociationContainer.png">
+          <p>1.Select the Music Switch and 2. Look at the Association Container<br>
+          on the right.</p>
+          <img src="StateMusicAttachState.png">
+          <p>Click on the >> and go State Groups -> Default Work Unit -><br>
+          WaveState</p>
+          <img src="StateMusicAddPath.png">
+          <p>Click on the Boss State and then click on Add Path</p>
+          <img src="StateMusicBossObject.png">
+          <p>Either Drag the Boss Music Playlist onto the Path's Object Box OR<br>
+          You can click on the elipsis ... and select BossStage from the list.</p>
+          <img src="StateMusicPathsComplete.png">
+          <p>Add another Path for the Normal Stage music and place it's<br>
+          Music Playlist on the Stage Object slot as in this picture.</p>
+          <img src="StateTransitionsTab.png">
+          <p>Select the Music Switch Container and then Navigate to the<br>
+            Transitions Tab.</p>
+          <img src="StateTransNormalBoss.png">
+          <p>Click on Add Transition and drag the Normal Music onto the Source<br>
+            and the Boss music onto the Destination.</p>
+          <img src="StateTransNextBar.png">
+          <p>Currently when we enter our Boss State we have to wait until the<br>
+          Normal music is finished playing before we transition to our Boss Music.<br>
+          That's too slow.  Select an Exit source at value that is more prompt.</p>
+          <img src="StateTransEnterExit.png">
+          <p>Add another transition from the Boss Music back to the Normal.<br>
+          Select the transitions one at a time and make sure the Exit Cue is<br>
+          set to next bar and the Entry Cue is Same Time as Playing Segment</p>
+          <img src="StateTransFadeOut.png">
+          <p>Check the Fade-Out button under Exit Source at and Click Edit.</p>
+          <img src="StateTransFadeTime.png">
+          <p>Set the Fade Time and Offset to 1 and Change the Curve to<br>
+            something you like.</p>
+          <img src="StateTransFadeIn.png">
+          <p>Under Destination Check Fade-In and click on Edit.</p>
+          <img src="StateTransFadeInTime.png">
+          <p>Set the Fade Time to 1 and the Offset to -1 and Change the Curve.<br>
+          Repeat this process for the other Transition as well!</p>
+          <hr>
+        </div>
+        <img src="SurvivalShooterAssignment.png">
+
+        <div id="Item3">
+            <hr>
+            <h2>Survival Shooter Requirements</h2>
+            <img src="SurvivalShooterAssignment.png">
+            <hr>
+          </div>
+
+    </div>
+  </body>
+</html>

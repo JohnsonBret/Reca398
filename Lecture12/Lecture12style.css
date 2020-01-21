@@ -1,0 +1,142 @@
+body{
+	color: white;
+	background-color: black;
+	font-family: Oswald;
+}
+
+nav{
+	background-color: rgb(0, 126, 0);
+}
+
+nav a{
+	font-size:20px;
+	color:white;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+p{
+	font-size: 28px;
+}
+
+img{
+	width: 80%;
+}
+
+hr{
+	width: 800px;
+}
+
+.lecture{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.lectureTitle{
+	order: 0;
+	font-size: 70px;
+}
+
+.lectureListContainer{
+	order: 1;
+}
+
+.lectureList{
+	font-size: 30px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: white;
+}
+
+#Item1{
+	order: 3;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 80%;
+}
+
+
+#Item1 >ul > li{
+	font-size: 20px;
+}
+
+
+#Item2{
+	order: 4;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 80%;
+}
+
+#Item3{
+	order: 5;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#Item4{
+	order: 6;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#Item5{
+	order: 7;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#Item6{
+	order: 8;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#Item7{
+	order: 9;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#Item8{
+	order: 10;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#Item9{
+	order: 11;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+

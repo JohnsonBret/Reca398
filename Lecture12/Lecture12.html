@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+
+     <link rel="stylesheet" href="Lecture12style.css">
+     <title>RECA 398 | Lecture 12</title>
+  </head>
+  
+  <body>
+    <nav>
+        <a href="../Downloads.html">Downloads</a>
+        <a href="../Slides.html">Slides</a>
+        <a href="../Games.html">Games</a>
+      </nav>
+      
+    <div class="lecture">
+        <h2 class="lectureTitle">Lecture 12 - Layered - Vertical Music</h2>
+        <div class="lectureListContainer">
+         
+            <ol class="lectureList">
+                <li><a href="#Item1">Wwise Layered Music</a></li>
+                <li><a href="#Item2">Unity Scripting</a></li>
+                
+            </ol>
+        </div>
+
+        <div id="Item1">
+          <hr>
+          <h2>Wwise Layered Music</h2>
+          <p>First we need to create a Music Work Unity in our Interactive Music Hierarchy.</p>
+          <img src="MusicWorkGroup.png">
+          <p>Right-Click on the Default Work Unit -> New Child -> Work Unit.</p>
+          <img src="MusicWorkGroupName.png">
+          <p>Name the new Work Unit - Music.</p>
+          <img src="ImportStageSegment.png">
+          <p>Go Into the Interactive Music folder I gave you.  Drag the Stage Folder onto
+            the Music Work Unit.
+          </p>
+          <img src="MusicSegment.png">
+          <p>On the folder change the Object Type / Action from Virtual Folder to Music Segment</p>
+          <img src="InteractiveMusicLayout.png">
+          <p>Go to the Layouts tab and change to the Interactive Music Layout.</p>
+          <img src="TempoTo136.png">
+          <p>Change the tempo of the Music Segment to 136 Beats per Minute.  This is the Tempo of all our Music files.</p>
+          <img src="BarsAndBeats.png">
+          <p>Right-Click on the timeline and change the timeline to Bars and Beats</p>
+          <img src="StartAndEndCue.png">
+          <p>Ctrl+Left-Click and move the Start Cue (Green Flag) to the start of our Music.<br>  Left-Click to move the End Cue (Red Flag) to the end of the Music on bar 17.</p>
+          <img src="MusicPlaylistContainer.png">
+          <p>Right-Click on our Music Segment Stage->New Parent-> Music Playlist Container</p>
+          <img src="MusicPlaylistContainerTempo.png">
+          <p>We need to set the tempo for our Music Playlist Container to 136bpm.<br>
+              Otherwise, it will overwrite our Tempo on the Music Segement</p>
+          <img src="SequenceIntoPlaylistContainer.png">
+          <p>Drag our Stage Music Segment onto the Sequence Continuous icon in the Music Playlist Container</p>
+          <img src="MusicPlaylistLoopInfinite.png">
+          <p>On the Sequence Continuous click the down arrow to set the Loop Count to Infinite.</p>
+          <img src="PinTheTransport.png">
+          <p>Click on the NormalStage Music Playlist Container and then Pin the Transport Control</p>
+          <img src="StageContainerClick.png">
+          <p>Left-Click on the Stage Music Segment to give it focus.</p>
+          <img src="SoloTracks.png">
+          <p>We can solo tracks in our Music Segment to hear the individual Music Tracks.<br>
+          This is useful to preview and make a plan for a music content.</p>
+          <img src="SoloReset.png">
+          <p>You can hit the Solo Reset button to clear all your solo tracks.<br>
+          Helpful to quickly get back to the default state.</p>
+          <img src="RandomStepTrack.png">
+          <p>Find the Orchestral Percussion track and Right-Click on it.  From the context<br>
+          menu select Random Step</p>
+          <img src="BlueBarRandomStep.png">
+          <p>Notice the Blue Bar that has appeared on the track we set to Random Step.</p>
+          <img src="AddSubTrack.png">
+          <p>Right-Click on the Random Step track and add a Sub-Track.<br>
+          Make sure you do it on the Orchestral Percussion track.  This photo doesn't show it clearly.</p>
+          <img src="DragToSubTrack.png">
+          <p>Drag the Percussion Hits Track onto the newly created Sub-Track</p>
+          <img src="DeleteEmptyTracks.png">
+          <p>Now that we have moved our Percussion Hits to the Sub-Track we can delete<br>
+          the track that Percussion Hits formerly occupied. Clean up your Mess!</p>
+          <img src="AddEmptySubTracks.png">
+          <p>You can lower chance of a certain track playing by adding empty Sub-Tracks.<br>
+          Also NOT playing a part can add even more variety to our Layered Music.</p>
+          <img src="SelectSequenceStep.png">
+          <p>Now lets Right-Click on our Piano Solo track and created a Sequence Step<br>
+          This will make a green bar on the right side of the track.</p>
+          <img src="AddSubTrack.png">
+          <p>Let's add a Sub-Track to our Sequence Step</p>
+          <img src="DragLeadCelloToSubTrack.png">
+          <p>Let's Drag our Lead Cello track to the empty Sub-Track we just created.<br>
+          Make sure you delete the track that Lead Cello previously occupied.<br>
+          Like any other Sound we need to create and Event for our Music Playlist.<br>
+          We also need to create a Sound Bank for our Music and add the Event to that bank.</p>
+
+        </div>
+        
+
+        <div id="Item2">
+          <hr>
+          <h2>Unity Script</h2>
+          <p>Let's add our PostEvent call to the WaveManager.cs script.</p>
+          <img src="FunctionCallScript.png">
+          <p>Let's add our Function Call StartGameMusic() to the Start() Function<br>
+          in the WaveManager.  This is going to be highlighted until we finish.</p>
+          <img src="FunctionDefinition.png">
+          <P>On a blank line under our StartWaveManager() function lets add our StartGameMusic()<br>
+          function definition</P>
+          <hr>
+        </div>
+        <img src="SurvivalShooterAssignment.png">
+
+        <div id="Item3">
+            <hr>
+            <h2>Survival Shooter Requirements</h2>
+            <img src="SurvivalShooterAssignment.png">
+            <hr>
+          </div>
+
+    </div>
+  </body>
+</html>

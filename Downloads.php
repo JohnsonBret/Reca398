@@ -59,6 +59,18 @@ $membership->confirmMember();
         <a class="" href="Lecture5.php" >Lecture 4<img src="Lecture4Img/bridge.png" alt="">Bootcamp Environment</a>
       </div>
 
+      <div class="right download">
+        <a class="" href="Lecture9.php" >Lecture 9<img src="SurvivalShooterLecture.png" alt="">Survival Shooter Switch</a>
+      </div>
+
+      <div class="left download">
+        <a href="Lecture10.php">Lecture 10 <img src="SurvivalShooterLecture.png" alt="">Music</a>
+      </div>
+
+      <div class="center download">
+        <a href="Lecture11.php">Lecture 11 <img src="SurvivalShooterLecture.png" alt="">Game States</a>
+      </div>
+
       <?php
       // <!-- <a class="download" href="Lecture3.zip" download="Lecture3.zip">Lecture 3</a>
       // <a class="download" href="Lecture5.zip" download="Lecture5.zip">Lecture 5</a>

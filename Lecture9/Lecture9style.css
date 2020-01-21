@@ -1,0 +1,53 @@
+body{
+	color:white;
+	background-color: black;
+	font-family: Oswald;
+}
+
+nav{
+	background-color: rgb(0, 126, 0);
+}
+
+nav a{
+	font-size:20px;
+	color:white;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.lecture{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+
+.lectureTitle{
+	order: 0;
+	font-size: 70px;
+}
+
+.lectureImage{
+	order: 1;
+	width: 30%;
+}
+
+.waterfallLectureImage{
+	order: 1;
+	width: 50%;
+}
+
+.lectureListContainer{
+	order: 2;
+}
+
+.lectureList{
+	font-size: 50px;
+}
+
+
+a{
+	text-decoration: none;
+	color: white;
+}

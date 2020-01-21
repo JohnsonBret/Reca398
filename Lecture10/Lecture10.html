@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+
+     <link rel="stylesheet" href="Lecture10style.css">
+     <title>RECA 398 | Lecture 10</title>
+  </head>
+  
+  <body>
+    <nav>
+        <a href="../Downloads.html">Downloads</a>
+        <a href="../Slides.html">Slides</a>
+        <a href="../Games.html">Games</a>
+      </nav>
+      
+    <div class="lecture">
+        <h2 class="lectureTitle">Lecture 10 - Wwise Switch</h2>
+        <div class="lectureListContainer">
+            <ol class="lectureList">
+                <li><a href="#Item1">Create Enemy Death Sounds</a></li>
+                <li><a href="#Item2">Import Sounds into Wwise</a></li>
+                <li><a href="#Item3">Create Wwise Random Containers</a></li>
+                <li><a href="#Item4">Game Sync Switch</a></li>
+                <li><a href="#Item5">Switch Container</a></li>
+                <li><a href="#Item6">Connect Constainer - Game Sync - Events</a></li>
+                <li><a href="#Item7">Add Event to Bank</a></li>
+                <li><a href="#Item8">Load Bank in Unity</a></li>
+                <li><a href="#Item9">Enemy Health - Post events and Set Switch</a></li>
+            </ol>
+        </div>
+
+        <div id="Item1">
+          <hr>
+          <h2>Create Enemy Death Sounds</h2>
+          <img src="../Lecture7/Layering.png">
+          <p>Inside of Pro Tools make the sounds you are going to use for our 3 dying enemies.</p>
+          <ul>
+            <li>Bear</li>
+            <li>Bunny</li>
+            <li>Elephant</li>
+          </ul>
+          <hr>
+        </div>
+
+        <div id="Item2">
+          <hr>
+          <h2>Import Sounds into Wwise</h2>
+          <img src="ImportAudio.png">
+          <p>Drag the created sounds in from the Finder / Explorer</p>
+          <img src="ImportSfxObjects.png">
+          <p>Check that the Object Type / Action is set to Sound SFX. Click Import.<p>
+          <hr>
+        </div>
+
+        <div id="Item3">
+          <hr>
+          <h2>Create Wwise Random Containers</h2>
+          <img src="RandomContainer.png">
+          <p>Shift click to select all the Sound Sfx objects you have imported. Right click to
+            open the context menu.  Navigate to New Parent->Random Container<p>
+          <p>Import sounds and create Random Containers for the remaining two enemies.</p>
+          <img src="CompleteRandomContainers.png">
+          <p>In the end - You should have a random container for the Elephant, Bear, and Bunny.</p>
+          <hr>
+        </div>
+
+        <div id="Item4">
+          <hr>
+          <h2>Game Sync Switch</h2>
+          <p>Click on the Game Syncs Tab</p>
+          <img src="ClickGameSyncs.png">
+          <p>Click on the button to create a New Switch Group</p>
+          <img src="NewSwitchGroup.png">
+          <p>Give the Switch Group a name.  I choose EnemyDeath.</p>
+          <p>Click on the button to Create a New Switch</p>
+          <img src="CreateNewSwitch.png">
+          <p>We are going to need 3 of these.  One for each enemy</p>
+          <img src="SwitchGroupComplete.png">
+          <p>Here is how it should look when it is all done.</p>
+          <hr>
+        </div>
+
+        <div id="Item5">
+          <hr>
+          <h2>Switch Container</h2>
+          <p>Go back to the Audio tab.</p>
+          <img src="SwitchContainer.png">
+          <p>Right click on the DefaultWorkUnit-> New Child-> Switch Container and create a new Switch Container</p>
+          <img src="SwitchContainerFilled.png">
+          <p>Click and Drag the Random Containers for each of the Enemies into the Switch Container. When finished it should appear as the image above.</p>
+          <hr>
+        </div>
+
+        <div id="Item6">
+          <hr>
+          <h2>Connect Switch Container - Game Sync - Events</h2>
+          <p>Click on the Switch Container in the Actor-Mixer Hierarchy</p>
+          <img src="ConnectSwitch.png">
+          <p>On the right side of the screen under Switch -> Group click on the >>. Navigate to SwitchGroups->EnemyDeath or whatever you named your Switch</p>
+          <img src="ConnectRandomAndSwitchStates.png">
+          <p>Click and drag the Enemy Random Containers to the Switch State</p>
+          <img src="PreviewSwitch.png">
+          <p>If you have done everything right you can preview your switch</p>
+          <hr>
+        </div>
+
+        <div id="Item7">
+          <hr>
+          <h2>Add Event to Switch Container and Assign Event to Sound Bank</h2>
+          <img src="AddSwitchEvent.png">
+          <p>Right click on the Switch container and add a Play Event</p>
+          <img src="LayoutSoundBank.png">
+          <p>Change the Wwise layout to Soundbank</p>
+          <img src="NewSoundBank.png">
+          <p>Add a new SoundBank to hold our Enemy Death Switch Event.  I named my SoundBank Enemies.</p>
+          <img src="AddEventToBank.png">
+          <p>Click on your newly created bank and drag your Event from the Events window into your SoundBank.</p>
+          <img src="GenerateSoundBanks.png">
+          <p>Generate your SoundBanks</p>
+          <hr>
+        </div>
+
+        <div id="Item8">
+          <hr>
+          <h2>Load Bank in Unity</h2>
+          <img src="LoadBank.png">
+          <p>Add the AkBank script to a gameobject in your Hierarchy.  I used Wwise Global</p>
+          <img src="AkBank1.png">
+          <p>Set your Bank so that it never Unloads</p>
+          <img src="AkBank2.png">
+          <p>Click on Bank Name - Select the Bank that contains your Switch Container.</p>
+          <img src="AkBank3.png">
+          <p>It should look like this when complete.</p>
+          <hr>
+        </div>
+
+        <div id="Item9">
+          <hr>
+          <h2>Enemy Health - Post events and Set Switch</h2>
+          <img src="DeathFunction1.png">
+          <p>In the EnemyHealth script find the Death function.  Underneath anim.SetTrigger("Dead") add PlayDeathSound();</p>
+          <img src="DeathSound.png">
+          <p>Under the closing } in the Death function add in the PlayDeathSound() function as it appears above. <br> The first paramenter in SetSwitch has to match the name of your Switch in GameSyncs <br> the First paramenter in PostEvent has to match your Event name.</p>
+          <img src="AkSoundEngineCall.png">
+          <img src="SwitchGroupComplete.png">
+          
+          <hr>
+        </div>
+
+    </div>
+  </body>
+</html>
